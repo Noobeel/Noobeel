@@ -1,17 +1,29 @@
-### Hi there 👋
+## 👋 Welcome!
+#About Me
+<p>
+  Hey, I am currently an undergraduate student in my third year, pursuing a Bachelor of Science degree in Computer Science, from Ryerson University in Toronto, Canada. 
+  I am always curious about new technological developments and have a keen interest in programming!
+</p>
 
-###  WIP  ###
-<!--
-**Noobeel/Noobeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Spoken Languages
+<p>
+    - English
+    - Urdu
+</p>
 
-Here are some ideas to get you started:
+#Programming Languages
+<p>
+    - Python
+    - Java
+    - C
+    - Rust
+    - Html/CSS
+    - Smalltalk
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#📫 Contact Me
+<p>
+  [LinkedIn](https://www.linkedin.com/in/mnabeelasim) &nbsp;&nbsp;
+  [Github](https://github.com/Noobeel) &nbsp;&nbsp;
+  [Email](mailto:nabeelasim0250@gmail.com)
+</p>
