@@ -1,4 +1,4 @@
-# 👋 Welcome!
+# ![peepoHappy](/assets/{peepoHappy}.{png}) Welcome!
 ## About Me
 <p>
   Hey, I am currently an undergraduate student in my third year, pursuing a Bachelor of Science degree in Computer Science, from Ryerson University in Toronto, Canada. 
@@ -15,7 +15,7 @@
 * C
 * Rust
 * Html/CSS
-* Smalltalk
+* Smalltalk ![Troll Face](/assets/{trollface}.{png})
 
 ## 📫 Contact Me
 * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
