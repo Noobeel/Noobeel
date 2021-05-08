@@ -13,17 +13,17 @@
 
 # Programming Languages
 <p>
-    - Python
-    - Java
-    - C
-    - Rust
-    - Html/CSS
-    - Smalltalk
+    * Python
+    * Java
+    * C
+    * Rust
+    * Html/CSS
+    * Smalltalk
 </p>
 
 # 📫 Contact Me
 <p>
-  [LinkedIn](https://www.linkedin.com/in/mnabeelasim) &nbsp;&nbsp;
-  [Github](https://github.com/Noobeel) &nbsp;&nbsp;
-  [Email](mailto:nabeelasim0250@gmail.com)
+  * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
+  * [Github](https://github.com/Noobeel)
+  * [Email](mailto:nabeelasim0250@gmail.com)
 </p>
