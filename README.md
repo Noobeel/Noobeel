@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-  Hey, I am currently an undergraduate student in my third year, pursuing a Bachelor of Science degree in Computer Science, from Ryerson University in Toronto, Canada. 
+  Hey, I am currently an undergraduate student in my third year, pursuing a Bachelor of Science degree in Computer Science, at Ryerson University in Toronto, Canada. 
   I am always curious about new technological developments and have a keen interest in programming!
 </p>
 
