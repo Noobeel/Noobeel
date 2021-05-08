@@ -1,17 +1,17 @@
 ## 👋 Welcome!
-#About Me
+# About Me
 <p>
   Hey, I am currently an undergraduate student in my third year, pursuing a Bachelor of Science degree in Computer Science, from Ryerson University in Toronto, Canada. 
   I am always curious about new technological developments and have a keen interest in programming!
 </p>
 
-#Spoken Languages
+# Spoken Languages
 <p>
     - English
     - Urdu
 </p>
 
-#Programming Languages
+# Programming Languages
 <p>
     - Python
     - Java
@@ -21,7 +21,7 @@
     - Smalltalk
 </p>
 
-#📫 Contact Me
+# 📫 Contact Me
 <p>
   [LinkedIn](https://www.linkedin.com/in/mnabeelasim) &nbsp;&nbsp;
   [Github](https://github.com/Noobeel) &nbsp;&nbsp;
