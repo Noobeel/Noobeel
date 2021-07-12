@@ -10,14 +10,19 @@
 - English
 - Urdu
 
-## Programming Languages
+## Skills
 * Python
 * Java
 * C
-* Rust
 * Html/CSS
+
+## To Learn
+* Rust
+* MongoDB
+* MySQL
 
 ## 📫 Contact Me
 * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
 * [Github](https://github.com/Noobeel)
 * [Email](mailto:nabeelasim0250@gmail.com)
+* Website - **Coming Soon**
