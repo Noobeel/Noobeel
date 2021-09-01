@@ -7,8 +7,8 @@
 </p>
 
 ## Spoken Languages
-- English
-- Urdu
+* English
+* Urdu
 
 ## Skills
 * Python
@@ -16,10 +16,15 @@
 * C
 * Html/CSS
 
-## To Learn
+## Learning
 * Rust
 * MongoDB
 * MySQL
+
+## OS & Code Editors of Choice
+* Windows & Linux
+* VSCode
+* IntelliJ IDEA (Java only)
 
 ## 📫 Contact Me
 * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
