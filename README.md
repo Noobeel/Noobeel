@@ -21,10 +21,9 @@
 * MongoDB
 * MySQL
 
-## OS & Code Editors of Choice
+## OS & Text Editor of Choice
 * Windows & Linux
 * VSCode
-* IntelliJ IDEA (Java only)
 
 ## 📫 Contact Me
 * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
