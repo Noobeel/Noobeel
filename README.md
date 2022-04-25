@@ -2,8 +2,8 @@
 
 ## About Me
 <p>
-  Hey, I am currently an undergraduate student in my third year, pursuing a Bachelor of Science degree (BSc (Hons)) in Computer Science, at Ryerson University in Toronto, Canada. 
-  I am always curious about new technological developments and have a keen interest in programming!
+  Hey, I am currently an undergraduate student pursuing a Bachelor of Science degree in Computer Science at Ryerson University in Toronto, Canada. 
+  I am always curious about new technological advancements and have a keen interest in software development!
 </p>
 
 ## Spoken Languages
