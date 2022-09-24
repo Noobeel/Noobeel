@@ -2,8 +2,7 @@
 
 ## About Me
 <p>
-  Hey, I am currently an undergraduate student pursuing a Bachelor of Science degree in Computer Science at Ryerson University in Toronto, Canada. 
-  I am always curious about new technological advancements and have a keen interest in software development!
+Hey, I am currently an undergraduate student pursuing a Bachelor of Science degree in Computer Science at Toronto Metropolitan University (formerly Ryerson University) in Toronto, Canada. I am always curious about new technological advancements and have a keen interest in Software Engineering and Development!
 </p>
 
 ## Spoken Languages
@@ -14,12 +13,11 @@
 * Python
 * Java
 * C
-* Html/CSS
+* HTML/CSS
+* MySQL
 
 ## Learning
 * Rust
-* MongoDB
-* MySQL
 
 ## OS & Text Editor of Choice
 * Windows & Linux
@@ -29,4 +27,3 @@
 * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
 * [Github](https://github.com/Noobeel)
 * [Email](mailto:nabeelasim0250@gmail.com)
-* Website - **Coming Soon**
