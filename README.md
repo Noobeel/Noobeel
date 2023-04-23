@@ -13,11 +13,16 @@ Hey, I am currently an undergraduate student pursuing a Bachelor of Science degr
 * Python
 * Java
 * C
+* JavaScript
 * HTML/CSS
+* Django
+* Flask
+* Bootstrap
 * MySQL
-
-## Learning
-* Rust
+* Oracle SQL
+* MongoDB
+* Docker
+* Git
 
 ## OS & Text Editor of Choice
 * Windows & Linux
