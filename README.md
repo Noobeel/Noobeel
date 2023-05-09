@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-Hey, I am currently an undergraduate student pursuing a Bachelor of Science degree in Computer Science at Toronto Metropolitan University (formerly Ryerson University) in Toronto, Canada. I am always curious about new technological advancements and have a keen interest in Software Engineering and Development!
+Hey,  I am a recent graduate with a Bachelor of Science degree in Computer Science from Toronto Metropolitan University (formerly Ryerson University) in Toronto, Canada. I am always curious about new technological advancements and have a keen interest in Software Engineering and Development!
 </p>
 
 ## Spoken Languages
@@ -22,7 +22,8 @@ Hey, I am currently an undergraduate student pursuing a Bachelor of Science degr
 * Oracle SQL
 * MongoDB
 * Docker
-* Git
+* Git/GitHub
+* Jira
 
 ## OS & Text Editor of Choice
 * Windows & Linux
