@@ -30,5 +30,4 @@ Hey, I am currently an undergraduate student pursuing a Bachelor of Science degr
 
 ## 📫 Contact Me
 * [LinkedIn](https://www.linkedin.com/in/mnabeelasim)
-* [Github](https://github.com/Noobeel)
 * [Email](mailto:nabeelasim0250@gmail.com)
