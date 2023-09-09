@@ -9,6 +9,11 @@ I am a recent graduate with a degree in Computer Science from Toronto Metropolit
 Actively seeking **Full-time Software Engineering/Development** roles within Canada. Please reach out to me to discuss opportunities!
 </p>
 
+## Current Project
+<p>
+Personal portfolio website using Next.js, React, TypeScript, Shadcn UI, Spline, and MongoDB
+</p>
+
 ## Spoken Languages
 * English
 * Urdu
