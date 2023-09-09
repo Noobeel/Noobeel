@@ -17,7 +17,7 @@ Actively seeking **Full-time Software Engineering/Development** roles within Can
 * Python
 * Java
 * PHP
-* JavaScript
+* JavaScript/TypeScript
 * HTML/CSS
 * React
 * Django
