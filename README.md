@@ -11,7 +11,7 @@ Actively seeking **Full-time Software Engineering/Development** roles within Can
 
 ## Current Project
 <p>
-Personal portfolio website using Next.js, React, TypeScript, Shadcn UI, Spline, and MongoDB
+Personal portfolio website using Next.js, React, TypeScript, and ShadCN UI
 </p>
 
 ## Spoken Languages
