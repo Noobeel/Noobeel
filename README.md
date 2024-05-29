@@ -4,9 +4,11 @@
 <p>
 Welcome to my GitHub profile!
 
-I am a recent graduate with a degree in Computer Science from Toronto Metropolitan University (formerly Ryerson University) in Toronto, Canada. Always curious about new technological advancements with a passion for building seamless and functional applications.
+I am a passionate and detail-oriented Junior Software Engineer with a Bachelor of Science in Computer Science (Honors) from Toronto Metropolitan University (formerly Ryerson University).
 
-Actively seeking **Full-time Software Engineering/Development** roles within Canada. Please reach out to me to discuss opportunities!
+I have a strong foundation in various programming languages including Python, JavaScript, and TypeScript, and am well-versed in frameworks such as React.js, Next.js, and Django. My hands-on experience ranges from developing high-performance web applications to optimizing system performance in professional settings. Notable projects include a portfolio website leveraging Next.js and TypeScript, a task management tool built with Python and React.js, and a document search engine using advanced NLP techniques.
+
+Actively seeking **full-time Software Engineering/Development** roles within Canada. Feel free to reach out to discuss potential opportunities!
 </p>
 
 ## 📫 Contact Me
